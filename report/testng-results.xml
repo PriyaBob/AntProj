@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45284" started-at="2020-05-14T18:08:05Z" finished-at="2020-05-14T18:08:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45284" started-at="2020-05-14T18:08:05Z" finished-at="2020-05-14T18:08:51Z">
+      <class name="APack.ClassThree">
+        <test-method status="PASS" signature="methodThreeA()[pri:0, instance:APack.ClassThree@64c64813]" name="methodThreeA" duration-ms="12491" started-at="2020-05-14T18:08:26Z" finished-at="2020-05-14T18:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThreeA -->
+      </class> <!-- APack.ClassThree -->
+      <class name="APack.ClassOne">
+        <test-method status="PASS" signature="methodOneA()[pri:0, instance:APack.ClassOne@f5f2bb7]" name="methodOneA" duration-ms="12540" started-at="2020-05-14T18:08:05Z" finished-at="2020-05-14T18:08:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOneA -->
+      </class> <!-- APack.ClassOne -->
+      <class name="APack.ClassFour">
+        <test-method status="PASS" signature="methodFourA()[pri:0, instance:APack.ClassFour@3ecf72fd]" name="methodFourA" duration-ms="11779" started-at="2020-05-14T18:08:39Z" finished-at="2020-05-14T18:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodFourA -->
+      </class> <!-- APack.ClassFour -->
+      <class name="APack.ClassTwo">
+        <test-method status="PASS" signature="methodTwoA()[pri:0, instance:APack.ClassTwo@73035e27]" name="methodTwoA" duration-ms="8452" started-at="2020-05-14T18:08:18Z" finished-at="2020-05-14T18:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoA -->
+        <test-method status="PASS" signature="methodTwoB()[pri:0, instance:APack.ClassTwo@73035e27]" name="methodTwoB" duration-ms="0" started-at="2020-05-14T18:08:26Z" finished-at="2020-05-14T18:08:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoB -->
+      </class> <!-- APack.ClassTwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
